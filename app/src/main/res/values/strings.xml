@@ -9,4 +9,10 @@
     <string name="label_library_app">LIBRARY APP</string>
     <string name="label_build_it_bigger">BUILD IT BIGGER</string>
     <string name="label_bacon_reader">BACON READER</string>
+    <string name="sportify_message">Opening Sportify Stream app</string>
+    <string name="score_app_message">Opening Score app</string>
+    <string name="library_app_message">Opening Library app</string>
+    <string name="build_it_bigger_message">Why not build it bigger!</string>
+    <string name="bacon_reader_message">Opening Bacon Reader app</string>
+    <string name="capstone_app_message">Opening Capstone my own app</string>
 </resources>

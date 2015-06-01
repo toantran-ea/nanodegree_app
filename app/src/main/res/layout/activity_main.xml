@@ -21,21 +21,18 @@
         android:id="@+id/button_sportify_streamer_app"
         style="@style/main_button"
         android:layout_below="@+id/app_introduction_label"
-        android:layout_marginTop="20dp"
         android:text="@string/app_sportify_streamer" />
 
     <Button
         android:id="@+id/button_scores_app"
         style="@style/main_button"
         android:layout_below="@+id/button_sportify_streamer_app"
-        android:layout_marginTop="20dp"
         android:text="@string/label_scores_app" />
 
     <Button
         android:id="@+id/button_library_app"
         style="@style/main_button"
         android:layout_below="@+id/button_scores_app"
-        android:layout_marginTop="20dp"
         android:text="@string/label_library_app" />
 
 
@@ -43,21 +40,18 @@
         android:id="@+id/button_build_it_bigger"
         style="@style/main_button"
         android:layout_below="@+id/button_library_app"
-        android:layout_marginTop="20dp"
         android:text="@string/label_build_it_bigger" />
 
     <Button
         android:layout_below="@+id/button_build_it_bigger"
         style="@style/main_button"
         android:id="@+id/button_bacon_reader"
-        android:layout_marginTop="20dp"
         android:text="@string/label_bacon_reader" />
 
     <Button
         android:layout_below="@+id/button_bacon_reader"
         style="@style/main_button"
         android:id="@+id/button_capstone_my_own_app"
-        android:layout_marginTop="20dp"
         android:background="@color/last_button_pink"
         android:text="@string/label_bacon_reader" />
 
